@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/success-fanfare-trumpets-6185.wav</SourceFile>
+  <SourceTime>2025-01-16T21:56:04.0415559-05:00</SourceTime>
+  <DestFile>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/bin/Debug/Content/Audio/success-fanfare-trumpets-6185.xnb</DestFile>
+  <DestTime>2025-01-16T21:56:58.6973729-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,9 @@
+Best Times:
+1. ARNAV, 21.67s
+2. POLE, 21.68s
+3. NETA, 166.13s
+-------------------------
+Best Moves:
+1. HELENNNNNN, 38 moves
+2. POLE, 40 moves
+3. ARNAV, 56 moves

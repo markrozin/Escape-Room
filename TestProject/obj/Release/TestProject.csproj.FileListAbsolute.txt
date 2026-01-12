@@ -1,0 +1,11 @@
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\bin\Release\TestProject.exe.config
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\bin\Release\TestProject.exe
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\bin\Release\TestProject.pdb
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\bin\Release\GameUtility.dll
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\bin\Release\MonoGame.Framework.dll
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\bin\Release\MonoGame.Framework.xml
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\obj\Release\TestProject.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\obj\Release\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\obj\Release\TestProj.121896E9.Up2Date
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\obj\Release\TestProject.exe
+C:\Users\Mark\Desktop\ICS4\Assignments\TestProject\TestProject\obj\Release\TestProject.pdb

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/applause-cheer-236786.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/button-202966.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/buzzing-sound-271564.mp3</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/buzzing-sound-271564.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/crumble-2-82156.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/ding-126626.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/electronic-buzzing-sound-29464.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/good-night-lofi-cozy-chill-music-160166.mp3</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/old-radio-button-click-97549.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/steampunk-gadget-lock-and-unlock-188053.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/stiff-wooden-tap-42877.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/success-fanfare-trumpets-6185.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/suspense-pulse-tense-music-266060.mp3</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/wrong-answer-sound-effect.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Fonts/ButtonFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Fonts/MediumFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Fonts/NewFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Fonts/TempFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Backgrounds/whiteRoomBg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Backgrounds/whiteRoomBg2.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/appleImg.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/bigLaserImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/blackButton.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/blackRecImage.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/blankSquare.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/brownImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/brownStickFloorImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/bullImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/carImg.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/clockHand2Img.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/clockImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/clockWallImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/clockWallImg2.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/closedScroll.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/doorImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/dustPolisherImg.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/electricPanelImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/goodCloseUpScroll.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/hanoiImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/hanoiImg2.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterASymbol.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterB.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterL.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterO.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterSSymbol.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterT.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/letterUSymbol.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/lightsImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/mirrorImg.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/monkeyImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/mrLaneHead.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/pieImg1.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/playerImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/puzzleBoxImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/qrCodeImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/RectangleBorder.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/ringOfHanoi.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/safeImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/scroll3Img.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/scrollCloseUp.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/scrollImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/symbolsImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/tableImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/tempMirrorImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/whiteCircleImg.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/woodenPoleImage2.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Images/Sprites/woodenPoleImg.webp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

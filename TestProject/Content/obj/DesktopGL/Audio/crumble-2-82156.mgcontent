@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/Content/Audio/crumble-2-82156.wav</SourceFile>
+  <SourceTime>2025-01-16T23:20:54.8435933-05:00</SourceTime>
+  <DestFile>C:/Users/Mark/Desktop/ICS4/Assignments/TestProject/TestProject/bin/Debug/Content/Audio/crumble-2-82156.xnb</DestFile>
+  <DestTime>2025-01-16T23:21:36.9800145-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
