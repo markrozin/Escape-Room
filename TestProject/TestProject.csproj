@@ -79,6 +79,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Icon.bmp" />
     <Content Include="Icon.ico" />
   </ItemGroup>
